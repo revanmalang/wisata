@@ -1,0 +1,37 @@
+[03-Sep-2021 05:19:02 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[03-Sep-2021 05:19:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[03-Sep-2021 05:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home2/dolanowe/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/dolanowe/public_html/index.php on line 7
+[06-Sep-2021 04:13:41 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[06-Sep-2021 04:13:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[06-Sep-2021 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home2/dolanowe/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/dolanowe/public_html/index.php on line 7
+[06-Sep-2021 04:14:12 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[06-Sep-2021 04:14:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[06-Sep-2021 04:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home2/dolanowe/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/dolanowe/public_html/index.php on line 7
+[07-Sep-2021 08:53:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home2/dolanowe/public_html/admin-dolano/connection/koneksi-database.php on line 8
+[07-Sep-2021 08:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home2/dolanowe/public_html/kontak.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/dolanowe/public_html/kontak.php on line 7
+[11-Sep-2021 00:23:49 UTC] PHP Notice:  Undefined index: id in /home2/dolanowe/public_html/detail-restoran.php on line 7
+[20-Oct-2021 05:17:26 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[25-Oct-2021 23:27:02 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[30-Oct-2021 15:16:20 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-wisata.php on line 7
+[30-Oct-2021 16:10:25 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-wisata.php on line 7
+[03-Nov-2021 23:38:43 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[08-Nov-2021 11:09:47 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[09-Nov-2021 06:35:28 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[12-Nov-2021 06:10:33 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[16-Nov-2021 03:03:17 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[09-Dec-2021 09:42:20 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[05-Jan-2022 11:52:46 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[23-Jan-2022 00:12:59 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7
+[12-Feb-2022 17:23:53 UTC] PHP Notice:  Undefined index: id in /home3/dolanowe/public_html/detail-restoran.php on line 7

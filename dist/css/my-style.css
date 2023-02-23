@@ -1,0 +1,37 @@
+/*Desktop*/
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+/*Mobile Responsive*/
+
+/*style logo area*/
+@media (max-width: 768px) and (min-width: 430px) {
+    .where_togo_area .col-jateng-logo {
+        padding-bottom: 60px !important;
+    }
+    .where_togo_area .col-kendal-logo,.col-kpp-logo {
+        padding-bottom: 80px !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .where_togo_area .col-jateng-logo {
+        padding-bottom: 40px !important;
+    }
+    .where_togo_area .col-kendal-logo,.col-kpp-logo {
+        padding-bottom: 60px !important;
+    }
+}
+
+@media (max-width: 375px) {
+    .where_togo_area .col-jateng-logo {
+        padding-bottom: 20px !important;
+    }
+    .where_togo_area .col-kendal-logo,.col-kpp-logo {
+        padding-bottom: 40px !important;
+    }
+}
+/*end style logo area*/
